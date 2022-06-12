@@ -1,2 +1,3 @@
 *.tfvars
 kube_config.yaml
+*.backup
